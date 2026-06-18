@@ -67,5 +67,3 @@ vitanet-github/
                     └── util/                 # Regex utilities and input validation
 ```
 
----
-*Built for the Software Construction & Development (SCD) Course.*
